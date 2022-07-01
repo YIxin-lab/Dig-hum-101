@@ -1,3 +1,3 @@
 # Features of "Successful" Movies and Its Classifier 
-Peoject Title: Features and Representation of "Successful" Movies
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![Headline Movies]([https://github.com/rayleehe/dh101sum22/blob/main/headline%20sentiment%20bxplt.png](https://github.com/YIxin-lab/Dig-hum-101/blob/main/Picture/Header.jpeg))
